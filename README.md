@@ -1,7 +1,7 @@
 Function returns a correct plural form of a word for a num.
 
 Based on https://habr.com/post/105428/.
-Tested only with russian language.
+Tested only with Russian language.
 
 Example:
 ```
